@@ -22,8 +22,7 @@ The executed notebook studies five contours, with no pole placed on a contour:
 The corresponding results are $0$, $\pi$, $0$, $-\pi$, and $2\pi$.
 For the case containing both poles, the residues cancel:
 
-$$\operatorname{Res}(f,i)=-\frac{1}{2i},\qquad
-\operatorname{Res}(f,-i)=\frac{1}{2i}.$$
+Res(f, i) = 1/(2i) = −i/2; Res(f, −i) = −1/(2i) = i/2. Their sum is zero.
 
 The maximum absolute error in the executed table is
 `4.456537e-16`.
@@ -51,8 +50,9 @@ with these packages installed, and run the cells from top to bottom.
 The project follows the professor's residue-theorem numerical verification
 assignment: [contour-integration project repository](https://github.com/yerkezhan22/contour-integration).
 AI assistance was used to help organize the notebook, implement the numerical
-experiments, and check the reported results. The mathematical setup and
-interpretation should be reviewed by the author.
+experiments, and check the reported results. This is a work in progress. I am
+reviewing the mathematical reasoning and interpretation alongside the
+computational checks.
 
 ## Next Stage
 
