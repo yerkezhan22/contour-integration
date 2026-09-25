@@ -34,7 +34,7 @@ The maximum absolute error in the executed table is
 
 
 
-## Assignment and AI Assistance
+## AI Assistance
 
 
 This project numerically investigates the residue theorem using Python. AI assistance was used to help organize the notebook, implement the numerical
