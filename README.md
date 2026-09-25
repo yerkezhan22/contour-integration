@@ -32,24 +32,12 @@ The maximum absolute error in the executed table is
 - [`residue_experiments.ipynb`](residue_experiments.ipynb) — executed notebook with numerical results and contour plots.
 - [`Untitled-1.ipynb`](Untitled-1.ipynb) — original notebook retained unchanged.
 
-## Requirements and Usage
 
-The notebook requires Python 3 and the following libraries:
-
-- NumPy
-- SymPy
-- SciPy
-- pandas
-- Matplotlib
-
-Open `residue_experiments.ipynb` in Jupyter or VS Code, select a Python kernel
-with these packages installed, and run the cells from top to bottom.
 
 ## Assignment and AI Assistance
 
-The project follows the professor's residue-theorem numerical verification
-assignment: [contour-integration project repository](https://github.com/yerkezhan22/contour-integration).
-AI assistance was used to help organize the notebook, implement the numerical
+
+This project numerically investigates the residue theorem using Python. AI assistance was used to help organize the notebook, implement the numerical
 experiments, and check the reported results. This is a work in progress. I am
 reviewing the mathematical reasoning and interpretation alongside the
 computational checks.
